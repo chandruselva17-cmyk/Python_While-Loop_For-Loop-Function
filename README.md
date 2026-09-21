@@ -1,5 +1,5 @@
 # Python_While-Loop_For-Loop-Function
-A small assignment covering iteration, control flow and functions in Python, built around three practical programs: a number guessing game, a multiplication table generator and a BMI calculator.
+Assignment covering iteration, control flow and functions in Python, built around three practical programs: a number guessing game, a multiplication table generator and a BMI calculator.
 
 Objectives
 
